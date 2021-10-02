@@ -1,0 +1,116 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1520,
+        "borderHeight": 960
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "2fb9cba2-96bb-466b-9d18-c1cb3e6e787f",
+            "label": "sprite_71_png",
+            "components": [],
+            "texture": {
+                "key": "stage",
+                "frame": "Sprite 71.png"
+            },
+            "x": 755,
+            "y": 504
+        },
+        {
+            "prefabId": "d4860e0c-4567-4608-a573-4d915de0e293",
+            "id": "7ad5e93b-4ff7-45e1-a1dd-7783f9e86970",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "playerTwo",
+            "components": [],
+            "x": 1196,
+            "y": 636,
+            "nestedPrefabs": []
+        },
+        {
+            "prefabId": "d4860e0c-4567-4608-a573-4d915de0e293",
+            "id": "7f5c1e7f-3b32-4956-9bbf-1359e06df72c",
+            "unlock": [
+                "x",
+                "y",
+                "scaleX",
+                "scaleY"
+            ],
+            "label": "playerOne",
+            "components": [],
+            "x": 339,
+            "y": 636,
+            "scaleX": -1,
+            "nestedPrefabs": []
+        },
+        {
+            "type": "Image",
+            "id": "5ebff126-29d3-499e-8fc9-e075df91f721",
+            "label": "sprite_73_png",
+            "components": [],
+            "texture": {
+                "key": "stage",
+                "frame": "Sprite 73.png"
+            },
+            "x": 760,
+            "y": 871
+        },
+        {
+            "type": "Image",
+            "id": "3299fa60-9437-4ecb-9017-e8d9aa0c3fdd",
+            "label": "symbol_1_png",
+            "components": [],
+            "texture": {
+                "key": "stage",
+                "frame": "Symbol 1.png"
+            },
+            "x": 757,
+            "y": 481
+        },
+        {
+            "type": "Text",
+            "id": "dff2e8eb-0a55-4f11-8ad8-eb87c5f02102",
+            "label": "text",
+            "components": [],
+            "x": 96,
+            "y": 748,
+            "originX": 0,
+            "originY": 0,
+            "text": "Floogal\n",
+            "fontFamily": "Burbank Small",
+            "fontSize": "40px",
+            "fontStyle": "bold",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "a3c989d4-bec8-40af-be80-fc5d78c2397f",
+            "label": "text_1",
+            "components": [],
+            "x": 1290,
+            "y": 747,
+            "originX": 0,
+            "originY": 0,
+            "text": "Floogal\n",
+            "align": "right",
+            "fontFamily": "Burbank Small",
+            "fontSize": "40px",
+            "fontStyle": "bold",
+            "color": "#000000ff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 2
+    }
+}

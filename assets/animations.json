@@ -1,0 +1,260 @@
+{
+    "anims": [
+        {
+            "key": "loading",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1200020.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "clock",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage",
+                    "frame": "Sprite 1010020.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 0.8,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

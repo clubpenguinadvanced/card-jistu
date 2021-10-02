@@ -1,0 +1,3384 @@
+{
+    "anims": [
+        {
+            "key": "layerone",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerone0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerone0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layertwo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwo0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerthree",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthree0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerfour",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfour0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerfive",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfive0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layersix",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layersix0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layersix0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerseven",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerseven0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layereight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layereight0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereight0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layernine",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layernine0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layernine0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerten",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerten0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerten0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layereleven",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layereleven0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layertwelve",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layertwelve0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerthirteen",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerthirteen0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerfourteen",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfourteen0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "layerfifteen",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0026.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0027.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0028.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0029.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0030.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0031.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0032.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0033.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0034.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0035.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ambient",
+                    "frame": "layerfifteen0036.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

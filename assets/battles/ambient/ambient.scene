@@ -1,0 +1,206 @@
+{
+    "id": "d4860e0c-4567-4608-a573-4d915de0e293",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": ""
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "28be7eff-80a7-428a-acee-0ce5452106b3",
+            "label": "container_1",
+            "components": [],
+            "x": 336,
+            "y": 430,
+            "list": [
+                {
+                    "type": "Sprite",
+                    "id": "db35252b-0e09-4647-9c8b-57435875b190",
+                    "label": "layerone",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerone0001.png"
+                    }
+                },
+                {
+                    "type": "Sprite",
+                    "id": "23549977-1b4c-4c8a-8d56-046eb39d535a",
+                    "label": "layertwo",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layertwo0001.png"
+                    },
+                    "x": 56,
+                    "y": 39
+                },
+                {
+                    "type": "Sprite",
+                    "id": "36d42c75-fdeb-41fd-871a-acd62a707f69",
+                    "label": "layerthree",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerthree0001.png"
+                    },
+                    "x": 16,
+                    "y": -124
+                },
+                {
+                    "type": "Sprite",
+                    "id": "088817e0-35ce-4d30-a9d8-e7dc11ab8f3a",
+                    "label": "layerfour",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerfour0001.png"
+                    },
+                    "x": 17,
+                    "y": -124
+                },
+                {
+                    "type": "Sprite",
+                    "id": "6f094df8-c96e-47ee-a795-50108b2ac7c0",
+                    "label": "layerfive",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerfive0001.png"
+                    },
+                    "x": 92,
+                    "y": -121
+                },
+                {
+                    "type": "Sprite",
+                    "id": "9494a4c7-876b-48f6-903d-e155c0708221",
+                    "label": "layersix",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layersix0001.png"
+                    },
+                    "x": 104,
+                    "y": -121
+                },
+                {
+                    "type": "Sprite",
+                    "id": "cfea8044-8878-4760-bb45-fb2f20c83789",
+                    "label": "layerseven",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerseven0001.png"
+                    },
+                    "x": 104,
+                    "y": -82
+                },
+                {
+                    "type": "Sprite",
+                    "id": "c8db9cb0-16e0-4aac-ac38-d2460b65a40f",
+                    "label": "layereight",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layereight0001.png"
+                    },
+                    "x": 57,
+                    "y": -211
+                },
+                {
+                    "type": "Sprite",
+                    "id": "dbb1864a-583d-4b28-898b-e94d13fc01d8",
+                    "label": "layernine",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layernine0001.png"
+                    },
+                    "x": 44,
+                    "y": -215
+                },
+                {
+                    "type": "Sprite",
+                    "id": "d371f530-4401-4df2-aaf9-e4794b58f53a",
+                    "label": "layerten",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerten0001.png"
+                    },
+                    "x": 77,
+                    "y": -162
+                },
+                {
+                    "type": "Sprite",
+                    "id": "5a709c84-fdeb-4e39-b4b4-6c751c5bc9da",
+                    "label": "layereleven",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layereleven0001.png"
+                    },
+                    "x": 33,
+                    "y": -192
+                },
+                {
+                    "type": "Sprite",
+                    "id": "3cd15d89-e994-4179-8de0-a9b785d6fb82",
+                    "label": "layertwelve",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layertwelve0001.png"
+                    },
+                    "x": 89,
+                    "y": -44
+                },
+                {
+                    "type": "Sprite",
+                    "id": "32bcbe5a-8460-42b4-a891-6062505b098d",
+                    "label": "layerthirteen",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerthirteen0001.png"
+                    },
+                    "x": 89,
+                    "y": -43
+                },
+                {
+                    "type": "Sprite",
+                    "id": "ea891df7-bb68-45b6-97e4-b1c8b1783d76",
+                    "label": "layerfourteen",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerfourteen0001.png"
+                    },
+                    "x": 81,
+                    "y": -117
+                },
+                {
+                    "type": "Sprite",
+                    "id": "b2974b14-2841-4d8e-a1f8-c954c9d3d9c2",
+                    "label": "layerfifteen",
+                    "components": [],
+                    "texture": {
+                        "key": "ambient",
+                        "frame": "layerfifteen0001.png"
+                    },
+                    "x": 81,
+                    "y": -120
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 2
+    }
+}
