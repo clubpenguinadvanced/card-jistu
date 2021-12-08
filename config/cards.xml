@@ -1,0 +1,4075 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<card id="1">
+		<name>CART SURFER</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="2">
+		<name>COFFEE SHOP</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="3">
+		<name>ASTRO-BARRIER</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="4">
+		<name>HOT CHOCOLATE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="5">
+		<name>LANDING PAD</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="6">
+		<name>PIZZA CHEF</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="7">
+		<name>PAINT BY LETTERS</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="8">
+		<name>MINE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="9">
+		<name>CONSTRUCTION WORKER</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="10">
+		<name>JET PACK ADVENTURE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="11">
+		<name>GIFT SHOP</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="12">
+		<name>HIKING IN THE FOREST</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="13">
+		<name>RESCUE SQUAD</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="14">
+		<name>PET SHOP</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="15">
+		<name>SKI VILLAGE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="16">
+		<name>ICE HOCKEY</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="17">
+		<name>SKI HILL</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="18">
+		<name>SNOWBALL FIGHT</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="19">
+		<name>SNOW FORTS</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="20">
+		<name>SOCCER</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="21">
+		<name>BEACH</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="22">
+		<name>FOOTBALL</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="23">
+		<name>BASEBALL</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="24">
+		<name>EMERALD PRINCESS</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="25">
+		<name>BEAN COUNTERS</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="26">
+		<name>MANHOLE COVER</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="27">
+		<name>NEWSPAPER ARCHIVES</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="28">
+		<name>UNDERGROUND POOL</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="29">
+		<name>SCUBA DIVING</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="30">
+		<name>ICE FISHING</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="31">
+		<name>CASE OF THE MISSING COINS</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="32">
+		<name>CRATES AND BOXES</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="33">
+		<name>ANVIL SMITH</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="34">
+		<name>HALLOWEEN</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="35">
+		<name>KNIGHT</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="36">
+		<name>BLACK PUFFLE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="37">
+		<name>MEDIEVAL PARTY</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="38">
+		<name>BLUE PUFFLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="39">
+		<name>PINK PUFFLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="40">
+		<name>GREEN PUFFLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="41">
+		<name>PUFFLE FURNITURE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="42">
+		<name>PURPLE PUFFLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="43">
+		<name>RED PUFFLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="44">
+		<name>YELLOW PUFFLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="45">
+		<name>SUMMER PARTY</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="46">
+		<name>GRAY FISH</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="47">
+		<name>O BERRY</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="48">
+		<name>LIFE RING</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="49">
+		<name>JOLLY ROGER FLAG</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="50">
+		<name>COINS</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="51">
+		<name>GARY THE GADGET GUY</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="52">
+		<name>BUOYS</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="53">
+		<name>YARR</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="54">
+		<name>KLUTZY</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="55">
+		<name>HERBERT P. BEAR</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="56">
+		<name>HOT SAUCE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="57">
+		<name>SNOW CASTLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="58">
+		<name>AUNT ARCTIC</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="59">
+		<name>CHRISTMAS CAROLS</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="60">
+		<name>BETA PARTY</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="61">
+		<name>HIDDEN ITEMS</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="62">
+		<name>SECRET AGENT</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="63">
+		<name>SNOW SHOVEL</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="64">
+		<name>THE MIGRATOR</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="65">
+		<name>CAPTAIN ROCKHOPPER</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="66">
+		<name>ICE CREAM</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="67">
+		<name>MULLET</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="68">
+		<name>UNDERGROUND FLOOD</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="69">
+		<name>FLUFFY THE FISH</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="70">
+		<name>SHARK</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="71">
+		<name>FLOORING UPGRADE</name>
+		<power_id>13</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>9</value>
+		<description>When this is scored, Snow cannot be played next round.</description>
+	</card>
+	<card id="72">
+		<name>GADGET ROOM</name>
+		<power_id>16</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Water cards become Fire for this round.</description>
+	</card>
+	<card id="73">
+		<name>JACKHAMMER</name>
+		<power_id>1</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this card is played, lower values win ties the next round.</description>
+	</card>
+	<card id="74">
+		<name>JET PACK</name>
+		<power_id>4</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>10</value>
+		<description>When this is scored, discard one Opponent&#x27;s Snowball card.</description>
+	</card>
+	<card id="75">
+		<name>THIN ICE</name>
+		<power_id>7</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Red card.</description>
+	</card>
+	<card id="76">
+		<name>NIGHT VISION GOGGLES</name>
+		<power_id>10</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Yellow card.</description>
+	</card>
+	<card id="77">
+		<name>MIGHTY PLUNGER</name>
+		<power_id>2</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, your card gets +2 for the next round</description>
+	</card>
+	<card id="78">
+		<name>DRAGON</name>
+		<power_id>3</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>12</value>
+		<description>When this is scored, your Opponent&#x27;s card get -2 for the next round</description>
+	</card>
+	<card id="79">
+		<name>SPACE ADVENTURE</name>
+		<power_id>15</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>9</value>
+		<description>When this is scored, Water cannot be played next round.</description>
+	</card>
+	<card id="80">
+		<name>TOUR GUIDE</name>
+		<power_id>18</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Fire cards become Snowball for this round.</description>
+	</card>
+	<card id="81">
+		<name>SLED RACING</name>
+		<power_id>1</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>10</value>
+		<description>When this card is played, lower values win ties the next round.</description>
+	</card>
+	<card id="82">
+		<name>PUFFLE ROUND-UP</name>
+		<power_id>5</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>10</value>
+		<description>When this is scored, discard one Opponent&#x27;s Water card.</description>
+	</card>
+	<card id="83">
+		<name>AC3000</name>
+		<power_id>9</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Green card.</description>
+	</card>
+	<card id="84">
+		<name>SNOW GLOBE IGLOO</name>
+		<power_id>12</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Purple card.</description>
+	</card>
+	<card id="85">
+		<name>SHADOW GUY &amp; GAMMA GAL</name>
+		<power_id>2</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>12</value>
+		<description>When this is scored, your card gets +2 for the next round</description>
+	</card>
+	<card id="86">
+		<name>AVALANCHE</name>
+		<power_id>3</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>12</value>
+		<description>When this is scored, your Opponent&#x27;s card get -2 for the next round</description>
+	</card>
+	<card id="87">
+		<name>WATER PARTY</name>
+		<power_id>14</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>9</value>
+		<description>When this is scored, Fire cannot be played next round.</description>
+	</card>
+	<card id="88">
+		<name>CATCHIN&#x27; WAVES</name>
+		<power_id>17</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Snowball cards become Water for this round.</description>
+	</card>
+	<card id="89">
+		<name>FIREFIGHTER</name>
+		<power_id>1</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this card is played, lower values win ties the next round.</description>
+	</card>
+	<card id="90">
+		<name>AQUA GRABBER</name>
+		<power_id>6</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>10</value>
+		<description>When this is scored, discard one Opponent&#x27;s Fire card.</description>
+	</card>
+	<card id="91">
+		<name>OCTOPUS</name>
+		<power_id>8</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Blue card.</description>
+	</card>
+	<card id="92">
+		<name>CACTUS</name>
+		<power_id>11</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Orange card.</description>
+	</card>
+	<card id="93">
+		<name>TIPPING THE ICEBERG</name>
+		<power_id>2</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>12</value>
+		<description>When this is scored, your card gets +2 for the next round</description>
+	</card>
+	<card id="94">
+		<name>NINJA</name>
+		<power_id>3</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>12</value>
+		<description>When this is scored, your Opponent&#x27;s card get -2 for the next round</description>
+	</card>
+	<card id="95">
+		<name>WHITE PUFFLE</name>
+		<power_id>10</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Yellow card.</description>
+	</card>
+	<card id="96">
+		<name>Yarr</name>
+		<power_id>4</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Snowball card.</description>
+	</card>
+	<card id="97">
+		<name>KEEPER OF THE BOILER ROOM</name>
+		<power_id>9</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Green card.</description>
+	</card>
+	<card id="98">
+		<name>BLAST</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="99">
+		<name>FLARE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="100">
+		<name>CHIRP</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="101">
+		<name>POP</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="102">
+		<name>LOOP</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="103">
+		<name>FLIT</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="104">
+		<name>BOUNCER</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="105">
+		<name>ED MCCOOL AND DESTRUCTO</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="106">
+		<name>NIBLET</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="107">
+		<name>SNOWY NIGHT</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="108">
+		<name>PUFFLES ON THE LOOSE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="109">
+		<name>CADENCE AND THE KEEPER</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="110">
+		<name>GOLDEN PUFFLE</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="111">
+		<name>METEOR PUFFLE</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="112">
+		<name>RAINBOW PUFFLE</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="113">
+		<name>ABOMINABLE SNOW PUFFLE </name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="201">
+		<name>Club Penguin Times</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="202">
+		<name>Can of Worms</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="203">
+		<name>Winter Fiesta Party</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="204">
+		<name>Invisible Ninja Suit</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="205">
+		<name>Penguin Mail</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="206">
+		<name>Bumble Bee</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="207">
+		<name>Pizzatron 3000</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="208">
+		<name>Card-Jitsu</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="209">
+		<name>Adopt-A-Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="210">
+		<name>Rock &amp; Roll Suit</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="211">
+		<name>Construction</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="212">
+		<name>Hidden Pins</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="213">
+		<name>Treasure Hunt Game</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="214">
+		<name>DJ3K</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="215">
+		<name>Surf Boards</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="216">
+		<name>Beach Chair Chilling</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="217">
+		<name>Telescope</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="218">
+		<name>Fish Costume</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="219">
+		<name>Crow&#x27;s Nest</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="220">
+		<name>The Cove</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="221">
+		<name>Captain&#x27;s Quarters</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="222">
+		<name>Iceberg</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="223">
+		<name>The Lounge</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="224">
+		<name>Rockhopper&#x27;s Key</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="225">
+		<name>Penguins That Time Forgot</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="226">
+		<name>Team Blue Rally</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="227">
+		<name>Jet Pack Adventure</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="228">
+		<name>Ruby and the Ruby</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="229">
+		<name>Snowball Fight</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="230">
+		<name>Snowball Press</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="231">
+		<name>Music Jam</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="232">
+		<name>Puffle Chew-Chew</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="233">
+		<name>Fairy Fables</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="234">
+		<name>Jelly Fish</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="235">
+		<name>Pirate</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="236">
+		<name>Fish Bait</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="237">
+		<name>Hydro Hopper</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="238">
+		<name>Puffle O&#x27;s</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="239">
+		<name>Fall Fair Games</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="240">
+		<name>Thinga-ma-jig 3000</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="241">
+		<name>Rad Scientist</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="242">
+		<name>Quip and Qua</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="243">
+		<name>Twee</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="244">
+		<name>Coins For Change</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="245">
+		<name>Surfing with the Sharks</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="246">
+		<name>Dance Contest</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="247">
+		<name>Purple Octopus</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="248">
+		<name>Giant Squid</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="249">
+		<name>Penguin Band</name>
+		<power_id>16</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Water cards become Fire for this round.</description>
+	</card>
+	<card id="250">
+		<name>Dojo Sketch</name>
+		<power_id>13</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Snow cannot be played next round.</description>
+	</card>
+	<card id="251">
+		<name>Flare Flinger 3000</name>
+		<power_id>7</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Red card.</description>
+	</card>
+	<card id="252">
+		<name>Herbert &amp; Klutzy</name>
+		<power_id>11</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Orange card.</description>
+	</card>
+	<card id="253">
+		<name>Coffee Delivery Truck</name>
+		<power_id>15</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>9</value>
+		<description>When this is scored, Water cannot be played next round.</description>
+	</card>
+	<card id="254">
+		<name>Anniversary Party</name>
+		<power_id>18</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>10</value>
+		<description>When this is played, Fire cards become Snowball for this round.</description>
+	</card>
+	<card id="255">
+		<name>Halloween Party</name>
+		<power_id>5</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Water card.</description>
+	</card>
+	<card id="256">
+		<name>Sensei</name>
+		<power_id>12</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Purple card.</description>
+	</card>
+	<card id="257">
+		<name>Jackhammers</name>
+		<power_id>8</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>9</value>
+		<description>When this is scored, discard one Opponent&#x27;s Blue card.</description>
+	</card>
+	<card id="258">
+		<name>Quest for the Golden Puffle</name>
+		<power_id>14</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Fire cannot be played next round.</description>
+	</card>
+	<card id="259">
+		<name>Storm</name>
+		<power_id>6</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Fire card.</description>
+	</card>
+	<card id="260">
+		<name>Rockhopper</name>
+		<power_id>17</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>12</value>
+		<description>When this is played, Snowball cards become Water for this round.</description>
+	</card>
+	<card id="301">
+		<name>Camera</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="302">
+		<name>Wigs</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="303">
+		<name>Pizza Parlor</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="304">
+		<name>Coffee Machine</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="305">
+		<name>Costume Trunk</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="306">
+		<name>Pet Shop Staff</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="307">
+		<name>Stompin&#x27; Bob</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="308">
+		<name>G Billy</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="309">
+		<name>Outdoor Igloo</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="310">
+		<name>Ticket Booth</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="311">
+		<name>Ridge Run</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="312">
+		<name>Clock Tower</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="313">
+		<name>White Puffles</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="314">
+		<name>Dojo Courtyard</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="315">
+		<name>Rocking Horse</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="316">
+		<name>Penguin Style</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="317">
+		<name>Stage Director</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="318">
+		<name>Conductor</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="319">
+		<name>Beacon</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="320">
+		<name>Discovering The Underground</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="321">
+		<name>Franky</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="322">
+		<name>Petey K.</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="323">
+		<name>Boombox</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="324">
+		<name>Mild Mannered Reporter</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="325">
+		<name>The Twelfth Fish</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="326">
+		<name>April Fool&#x27;s Day Party</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="327">
+		<name>Plasma Glow Wave</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="328">
+		<name>Cowbell</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="329">
+		<name>O Berry Bush</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="330">
+		<name>Chester The Time Traveler</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="331">
+		<name>101 Days of Fun</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="332">
+		<name>Color Vote</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="333">
+		<name>Christmas Party</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="334">
+		<name>Viking Opera</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="335">
+		<name>Water Balloons</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="336">
+		<name>Tuba</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="337">
+		<name>Rockhopper&#x27;s Plants</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="338">
+		<name>Adventure Party</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="339">
+		<name>Penguin Play Awards</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="340">
+		<name>All-Access Pass</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="341">
+		<name>Cadence&#x27;s Autograph</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="342">
+		<name>Treasure Book</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="343">
+		<name>Black Hoodie</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="344">
+		<name>Propellor Cap</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="345">
+		<name>Dessert Pizza</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="346">
+		<name>Black Electric Guitar</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="347">
+		<name>Mastering The Elements</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="348">
+		<name>Elite Penguin Force</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="349">
+		<name>Switchbox 3000</name>
+		<power_id>7</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Red card.</description>
+	</card>
+	<card id="350">
+		<name>Medieval Party</name>
+		<power_id>8</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, discard one Opponent&#x27;s Blue card.</description>
+	</card>
+	<card id="351">
+		<name>Cadence</name>
+		<power_id>3</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>11</value>
+		<description>When this is scored, your Opponent&#x27;s card get -2 for the next round</description>
+	</card>
+	<card id="352">
+		<name>Cloud Wave</name>
+		<power_id>9</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Green card.</description>
+	</card>
+	<card id="353">
+		<name>Ghost Sheet</name>
+		<power_id>3</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, your Opponent&#x27;s card get -2 for the next round</description>
+	</card>
+	<card id="354">
+		<name>Cart Surfer</name>
+		<power_id>12</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>10</value>
+		<description>When this is scored, discard one Opponent&#x27;s Purple card.</description>
+	</card>
+	<card id="355">
+		<name>Keytar</name>
+		<power_id>11</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>9</value>
+		<description>When this is scored, discard one Opponent&#x27;s Orange card.</description>
+	</card>
+	<card id="356">
+		<name>X-treme Jetpack</name>
+		<power_id>2</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>9</value>
+		<description>When this is scored, your card gets +2 for the next round</description>
+	</card>
+	<card id="357">
+		<name>Box Dimension</name>
+		<power_id>2</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is scored, your card gets +2 for the next round</description>
+	</card>
+	<card id="358">
+		<name>Gold Viking Helmet</name>
+		<power_id>10</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>10</value>
+		<description>When this is scored, discard one Opponent&#x27;s Yellow card.</description>
+	</card>
+	<card id="359">
+		<name>Gary The Gadget Guy</name>
+		<power_id>2</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>11</value>
+		<description>When this is scored, your card gets +2 for the next round</description>
+	</card>
+	<card id="360">
+		<name>Rockhopper&#x27;s Cannon</name>
+		<power_id>3</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>12</value>
+		<description>When this is scored, your Opponent&#x27;s card get -2 for the next round</description>
+	</card>
+	<card id="401">
+		<name>Multi-Player</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="402">
+		<name>Fire Battle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="403">
+		<name>Fired Up</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="404">
+		<name>Goldsmith</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="405">
+		<name>Scroll</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="406">
+		<name>Volcano</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="407">
+		<name>Ready For Battle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="408">
+		<name>Flying Flippers Emporium</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="409">
+		<name>Duel</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="410">
+		<name>Concentrate</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="411">
+		<name>Interior Construction</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="412">
+		<name>Elements Hideout</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="413">
+		<name>Scavenger Hunt</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="414">
+		<name>Fire Wheel</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="415">
+		<name>Amulet Construction</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="416">
+		<name>Fire Dance</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="417">
+		<name>Sketched Action</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="418">
+		<name>Fire Guardian</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="419">
+		<name>Hot Sauce Reserve</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="420">
+		<name>Sketched: Volcano</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="421">
+		<name>Orange Sky</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="422">
+		<name>Sketched: Enter</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="423">
+		<name>Amulet</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>9</value>
+		<description></description>
+	</card>
+	<card id="424">
+		<name>A New Journey</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="425">
+		<name>Fire Door &amp; Key</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="426">
+		<name>Sensei Fire</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>9</value>
+		<description></description>
+	</card>
+	<card id="427">
+		<name>Fire Ninja</name>
+		<power_id>4</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Snowball card.</description>
+	</card>
+	<card id="501">
+		<name>Monkey King</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="502">
+		<name>Jet Pack Pilot</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="503">
+		<name>Fairy Princess</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="504">
+		<name>Puffle Grooming</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="505">
+		<name>Halloween Costumes</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="506">
+		<name>Costume Show</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="507">
+		<name>Soccer Match</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="508">
+		<name>Bean Counters</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="509">
+		<name>Earth Day Recycling</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="510">
+		<name>Penguin Play Awards</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="511">
+		<name>Goal!</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="512">
+		<name>Bamboo Forest Sketch</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="513">
+		<name>The Mine Cave is Safe!</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="514">
+		<name>Mine Cave Construction</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="515">
+		<name>Guardian Dog</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="516">
+		<name>The Fair</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="517">
+		<name>Hockey Gear</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="518">
+		<name>Puffle Show</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="519">
+		<name>Holiday Gifts</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="520">
+		<name>Holiday Activities</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="521">
+		<name>Stadium</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="522">
+		<name>Igloo Items</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="523">
+		<name>Music Jam</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="524">
+		<name>Elite Penguin Sketch</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="525">
+		<name>Festival of Flight</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="526">
+		<name>Test Glider</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="527">
+		<name>Puffle Paddle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="528">
+		<name>Fancy Formal Wear</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="529">
+		<name>The Docks</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="530">
+		<name>Orange Puffle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="531">
+		<name>Community Tree</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="532">
+		<name>Community Garden</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="533">
+		<name>Island Adventure Party</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="534">
+		<name>Shops in Igloos</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="535">
+		<name>Seafarer&#x27;s Gown</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="536">
+		<name>Music Jam Dancers</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="537">
+		<name>Music Jam Rock Stage</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="538">
+		<name>Music Jam Pop Stage</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="539">
+		<name>Underwater Adventure</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="540">
+		<name>Norman Swarm</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="541">
+		<name>Puffle Rescuer</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="542">
+		<name>Everyday Phoning Facility</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="543">
+		<name>Jet Packs</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="544">
+		<name>Pumpkin Igloo</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="545">
+		<name>Treasure Hunt Adventure</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="546">
+		<name>Destroyed PSA HQ</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="547">
+		<name>Captains</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="548">
+		<name>April Fools</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="549">
+		<name>The Great Snow Maze</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="550">
+		<name>Jacques Hammer</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="551">
+		<name>Throne of April Fools</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="552">
+		<name>The Test</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="553">
+		<name>Cloud Maker 3000</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="554">
+		<name>Super Exclusives</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="555">
+		<name>Rockslide at the Mine</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="556">
+		<name>Mer-penguins</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="557">
+		<name>Puffer Fish</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="558">
+		<name>Garden Hose</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="559">
+		<name>Fixing the Mine Shack</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="560">
+		<name>Puffle Circus</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="561">
+		<name>Puffle Play Sketch</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="562">
+		<name>Dragon Statue</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="563">
+		<name>Popcorn Party</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="564">
+		<name>White Puffle Room</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="565">
+		<name>Green Puffle Sketch</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="566">
+		<name>Fishbowl Igloo</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="567">
+		<name>Ship Battle Adventure</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="568">
+		<name>Elite Penguin Force</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="569">
+		<name>Rockhopper&#x27;s Notice Board</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="570">
+		<name>Squid Lid</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="571">
+		<name>Hidden Lake</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="572">
+		<name>Orange Puffle Wagon</name>
+		<power_id>16</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Water cards become Fire for this round.</description>
+	</card>
+	<card id="573">
+		<name>Haunted House</name>
+		<power_id>13</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Snow cannot be played next round.</description>
+	</card>
+	<card id="574">
+		<name>Fire Dragon</name>
+		<power_id>7</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Red card.</description>
+	</card>
+	<card id="575">
+		<name>Puffle Rescue: Underground</name>
+		<power_id>11</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Orange card.</description>
+	</card>
+	<card id="576">
+		<name>Double Necked Guitar</name>
+		<power_id>15</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>9</value>
+		<description>When this is scored, Water cannot be played next round.</description>
+	</card>
+	<card id="577">
+		<name>Puffle Rescue: Ice Floes</name>
+		<power_id>18</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>10</value>
+		<description>When this is played, Fire cards become Snowball for this round.</description>
+	</card>
+	<card id="578">
+		<name>Spy Phone</name>
+		<power_id>12</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Purple card.</description>
+	</card>
+	<card id="579">
+		<name>Dance Contest</name>
+		<power_id>5</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Water card.</description>
+	</card>
+	<card id="580">
+		<name>Crab Costume</name>
+		<power_id>8</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>9</value>
+		<description>When this is scored, discard one Opponent&#x27;s Blue card.</description>
+	</card>
+	<card id="581">
+		<name>Puffle Washer</name>
+		<power_id>14</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Fire cannot be played next round.</description>
+	</card>
+	<card id="582">
+		<name>Green Jackhammer</name>
+		<power_id>6</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Fire card.</description>
+	</card>
+	<card id="583">
+		<name>The Veggie Villain</name>
+		<power_id>17</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>12</value>
+		<description>When this is played, Snowball cards become Water for this round.</description>
+	</card>
+	<card id="584">
+		<name>Island Lifter 3000</name>
+		<power_id>16</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Water cards become Fire for this round.</description>
+	</card>
+	<card id="585">
+		<name>Flare</name>
+		<power_id>13</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Snow cannot be played next round.</description>
+	</card>
+	<card id="586">
+		<name>Popcorn Device</name>
+		<power_id>7</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Red card.</description>
+	</card>
+	<card id="587">
+		<name>Field-Ops</name>
+		<power_id>11</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Orange card.</description>
+	</card>
+	<card id="588">
+		<name>Recipe for Disaster</name>
+		<power_id>15</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>9</value>
+		<description>When this is scored, Water cannot be played next round.</description>
+	</card>
+	<card id="589">
+		<name>Elite Agent</name>
+		<power_id>18</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>10</value>
+		<description>When this is played, Fire cards become Snowball for this round.</description>
+	</card>
+	<card id="590">
+		<name>Aunt Arctic Sketch</name>
+		<power_id>12</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s purple card.</description>
+	</card>
+	<card id="591">
+		<name>Yeti Cave</name>
+		<power_id>5</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>12</value>
+		<description>When this is scored, discard one Opponent&#x27;s Water card.</description>
+	</card>
+	<card id="592">
+		<name>Shocktopus</name>
+		<power_id>8</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>9</value>
+		<description>When this is scored, discard one Opponent&#x27;s Blue card.</description>
+	</card>
+	<card id="593">
+		<name>Puffle Rescue: Underwater</name>
+		<power_id>14</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Fire cannot be played next round.</description>
+	</card>
+	<card id="594">
+		<name>Hidden Lake Lock</name>
+		<power_id>6</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>11</value>
+		<description>When this is scored, discard one Opponent&#x27;s Fire card.</description>
+	</card>
+	<card id="595">
+		<name>Knight&#x27;s Quest</name>
+		<power_id>17</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>12</value>
+		<description>When this is played, Snowball cards become Water for this round.</description>
+	</card>
+	<card id="601">
+		<name>Spooky Igloo Contest</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="602">
+		<name>Halloween Countdown!</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="603">
+		<name>Stormy Skies</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="604">
+		<name>5th Anniversary Party</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="605">
+		<name>5th Anniversary Cake</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="606">
+		<name>5th Anniversary Yearbook</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="607">
+		<name>Snowball Fight!</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="608">
+		<name>Find Four</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="609">
+		<name>Cozy Ski Lodge</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="610">
+		<name>Holiday Decorations!</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="611">
+		<name>Book Room Adventures</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="612">
+		<name>Halloween Forest</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="613">
+		<name>Brown Puffle Rocket</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="614">
+		<name>Fun at the Fair!</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="615">
+		<name>Ski Hill Challenge</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="616">
+		<name>Holiday Party Skating</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="617">
+		<name>Treasure!</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="618">
+		<name>Lumberjack Look</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="619">
+		<name>Pink Sparkle Snowshoes</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="620">
+		<name>Holiday Tree 2010</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="621">
+		<name>Fill the Lighthouse!</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="622">
+		<name>Wilderness Machine</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="623">
+		<name>Expedition Boat</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="624">
+		<name>Wilderness Expedition Cave</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="625">
+		<name>Water Party Prep</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="626">
+		<name>Water Dance</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="627">
+		<name>Stamp Collectors</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="628">
+		<name>Explore the Wilderness</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="629">
+		<name>Coins for Change 2010!</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="630">
+		<name>Penguin Colors</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="631">
+		<name>Fairy Fables</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="632">
+		<name>Penguins That Time Forgot</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="633">
+		<name>EPF Sketch</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="634">
+		<name>Cove Stories</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="635">
+		<name>Orange Circus Puffle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="636">
+		<name>Hydro Hopper</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="637">
+		<name>Igloo Party!</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="638">
+		<name>Life Underwater</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="639">
+		<name>Herbert&#x27;s Monologue</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="640">
+		<name>Enemy Bots</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="641">
+		<name>Paint By Letters</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="642">
+		<name>Secret Agent</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="643">
+		<name>Fireworks</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="644">
+		<name>EPF Tech Agent</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="645">
+		<name>Popcorn Explosion</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="646">
+		<name>Walk Your Puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="647">
+		<name>Sumo Smash</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="648">
+		<name>inventive Brown Puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="649">
+		<name>Holiday Party Tree</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="650">
+		<name>EPF Enemies</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="651">
+		<name>Tall Tree Maze</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="652">
+		<name>Sled &#x27;n Slide</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="653">
+		<name>Underwater at the Stage</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="654">
+		<name>Wilderness Expedition Travel</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="655">
+		<name>Catch the Mullet!</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="656">
+		<name>Great Puffle Circus</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="657">
+		<name>Intense Black Puffle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="658">
+		<name>Brown Puffle Storyboard</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="659">
+		<name>Java Jump</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="660">
+		<name>Master the Elements</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="661">
+		<name>Fairy Fables Stage</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="662">
+		<name>Creative Puffles</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="663">
+		<name>Goofy Green Puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="664">
+		<name>EPF Test Room</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="665">
+		<name>Snowball Battle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="666">
+		<name>Fabulous Purple Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="667">
+		<name>Water Party Sketch</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="668">
+		<name>Zany Orange Puffle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="669">
+		<name>Sporty Pink Puffle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="670">
+		<name>Wii Game Day goal!</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="671">
+		<name>Epic White Puffle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="672">
+		<name>Awesome Blue Puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>9</value>
+		<description></description>
+	</card>
+	<card id="673">
+		<name>feed a _puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>9</value>
+		<description></description>
+	</card>
+	<card id="674">
+		<name>Ninja Battle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="675">
+		<name>The Mystery of Sensei</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="676">
+		<name>Master the Elements</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="677">
+		<name>Brown Puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="678">
+		<name>Fire Wave</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="679">
+		<name>Black Puffles in Cart Surfer</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="680">
+		<name>Mountain Expedition</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="681">
+		<name>Climbing the Mountain</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="682">
+		<name>Top of Toughest Mountain</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="683">
+		<name>Cart Surfer Stamps</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="684">
+		<name>Stamp Book</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="685">
+		<name>Stormy Sky </name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="686">
+		<name>Water Wave Sketches</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="687">
+		<name>Storm Baffles Gary</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="688">
+		<name>Water Ninja</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="689">
+		<name>The First Rainstorm</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="690">
+		<name>Ninja Face-off</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="691">
+		<name>Earning the Water Suit</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="692">
+		<name>Water Pumping Gadget</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="693">
+		<name>Preparing the Water Dojo</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="694">
+		<name>Gate to the Water Dojo</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="695">
+		<name>Water Suit</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="696">
+		<name>Sign From The Elements</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="697">
+		<name>Sensei - Master of Water</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>r</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="698">
+		<name>Water Ninja Poster Sketch</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="699">
+		<name>Water Ninja Sketch</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="700">
+		<name>Water Beats Fire Sketch</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="701">
+		<name>Blast</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="702">
+		<name>Flare</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="703">
+		<name>Chirp</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="704">
+		<name>Pop</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="705">
+		<name>Loop</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>o</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="706">
+		<name>Flit</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="707">
+		<name>Bouncer</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="708">
+		<name>Ed McCool and Destructo</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="709">
+		<name>Niblet</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="710">
+		<name>Snowy Night</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="711">
+		<name>Puffles on the Loose</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="712">
+		<name>Cadence and the Keeper</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="713">
+		<name>Golden puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="714">
+		<name>Meteor puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="715">
+		<name>Rainbow puffle</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="716">
+		<name>Abominable snow puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="717">
+		<name>Black Puffle</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="718">
+		<name>Blue Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>2</value>
+		<description></description>
+	</card>
+	<card id="719">
+		<name>Pink Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="720">
+		<name>Green Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="721">
+		<name>Purple Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>3</value>
+		<description></description>
+	</card>
+	<card id="722">
+		<name>Red Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>r</color>
+		<value>5</value>
+		<description></description>
+	</card>
+	<card id="723">
+		<name>Yellow Puffle</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>4</value>
+		<description></description>
+	</card>
+	<card id="724">
+		<name>Puffle Round Up</name>
+		<power_id>5</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>10</value>
+		<description>When this is scored, discard one opponent&#x27;s Water card.</description>
+	</card>
+	<card id="725">
+		<name>Fire Ninja Force</name>
+		<power_id>11</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, discard one opponent&#x27;s Orange card.</description>
+	</card>
+	<card id="726">
+		<name>Halloween Swamp</name>
+		<power_id>15</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>9</value>
+		<description>When this is scored, Water cannot be played next round.</description>
+	</card>
+	<card id="727">
+		<name>Prepare for Pumpkins</name>
+		<power_id>17</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>10</value>
+		<description>When this is played, Snowball cards become Fire for this round</description>
+	</card>
+	<card id="728">
+		<name>Finding Rockhopper</name>
+		<power_id>12</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Purple card.</description>
+	</card>
+	<card id="729">
+		<name>Elite Puffle: Flare</name>
+		<power_id>5</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>12</value>
+		<description>When this is scored, discard one opponent&#x27;s Water card.</description>
+	</card>
+	<card id="730">
+		<name>Giant Pearl</name>
+		<power_id>8</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>9</value>
+		<description>When this is scored, discard one opponent&#x27;s Blue card.</description>
+	</card>
+	<card id="731">
+		<name>Water Stamps</name>
+		<power_id>14</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Fire cannot be played next round.</description>
+	</card>
+	<card id="732">
+		<name>EPF Agents</name>
+		<power_id>6</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Fire card.</description>
+	</card>
+	<card id="733">
+		<name>Puffle Rescue</name>
+		<power_id>17</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>12</value>
+		<description>When this is played, Snowball cards become Water for this round.</description>
+	</card>
+	<card id="734">
+		<name>Fire Dojo Challenge</name>
+		<power_id>16</power_id>
+		<element>f</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Water cards become Fire for this round.</description>
+	</card>
+	<card id="735">
+		<name>System Defender</name>
+		<power_id>13</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Snow cannot be played next round.</description>
+	</card>
+	<card id="736">
+		<name>Adventurous Red Puffle</name>
+		<power_id>7</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Red card.</description>
+	</card>
+	<card id="737">
+		<name>G and the Machine</name>
+		<power_id>11</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>12</value>
+		<description>When this is scored, discard one opponent&#x27;s Orange card.</description>
+	</card>
+	<card id="738">
+		<name>Enemies of the System</name>
+		<power_id>15</power_id>
+		<element>s</element>
+		<color>o</color>
+		<value>9</value>
+		<description>When this is scored, Water cannot be played next round.</description>
+	</card>
+	<card id="739">
+		<name>Holiday Dojo Lights</name>
+		<power_id>18</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>10</value>
+		<description>When this is played, Fire cards become Snowball for this round.</description>
+	</card>
+	<card id="740">
+		<name>Wii Rollin&#x27; Riot</name>
+		<power_id>12</power_id>
+		<element>s</element>
+		<color>y</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Purple card.</description>
+	</card>
+	<card id="741">
+		<name>EPF Under Attack</name>
+		<power_id>5</power_id>
+		<element>s</element>
+		<color>p</color>
+		<value>12</value>
+		<description>When this is scored, discard one opponent&#x27;s Water card.</description>
+	</card>
+	<card id="742">
+		<name>Elite Comm Class Agents</name>
+		<power_id>8</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>9</value>
+		<description>When this is scored, discard one opponent&#x27;s Blue card.</description>
+	</card>
+	<card id="743">
+		<name>Brown Puffle Cliff</name>
+		<power_id>14</power_id>
+		<element>w</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Fire cannot be played next round.</description>
+	</card>
+	<card id="744">
+		<name>Coins for Change Goal!</name>
+		<power_id>6</power_id>
+		<element>w</element>
+		<color>o</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Fire card.</description>
+	</card>
+	<card id="745">
+		<name>Sensei Water Battle </name>
+		<power_id>14</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>9</value>
+		<description>When this is played, Fire cards become Water for this round.</description>
+	</card>
+	<card id="746">
+		<name>Green Puffles in Jet Pack Adve</name>
+		<power_id>13</power_id>
+		<element>f</element>
+		<color>y</color>
+		<value>10</value>
+		<description>When this is scored, Snow cannot be played next round.</description>
+	</card>
+	<card id="747">
+		<name>Water Dojo</name>
+		<power_id>7</power_id>
+		<element>w</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Red card.</description>
+	</card>
+	<card id="748">
+		<name>White Puffle</name>
+		<power_id>10</power_id>
+		<element>s</element>
+		<color>b</color>
+		<value>12</value>
+		<description>When this is scored, discard one opponent&#x27;s Yellow card.</description>
+	</card>
+	<card id="749">
+		<name>Yarr</name>
+		<power_id>4</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Snowball card.</description>
+	</card>
+	<card id="750">
+		<name>Keeper of the Boiler Room</name>
+		<power_id>9</power_id>
+		<element>w</element>
+		<color>g</color>
+		<value>11</value>
+		<description>When this is scored, discard one opponent&#x27;s Green card.</description>
+	</card>
+	<card id="801">
+		<name>Mobile Fire 1</name>
+		<power_id>0</power_id>
+		<element>f</element>
+		<color>r</color>
+		<value>6</value>
+		<description></description>
+	</card>
+	<card id="802">
+		<name>Mobile Snow 1</name>
+		<power_id>0</power_id>
+		<element>s</element>
+		<color>g</color>
+		<value>7</value>
+		<description></description>
+	</card>
+	<card id="803">
+		<name>Mobile Water 1</name>
+		<power_id>0</power_id>
+		<element>w</element>
+		<color>b</color>
+		<value>8</value>
+		<description></description>
+	</card>
+	<card id="804">
+		<name>Mobile Fire Power Card 1</name>
+		<power_id>2</power_id>
+		<element>f</element>
+		<color>p</color>
+		<value>11</value>
+		<description>When this is scored, your card gets +2 for the next round</description>
+	</card>
+</config>
