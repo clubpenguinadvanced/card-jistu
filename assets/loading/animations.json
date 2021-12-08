@@ -1,0 +1,114 @@
+{
+    "anims": [
+        {
+            "key": "loading",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "loading",
+                    "frame": "loading1-a.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-b.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-c.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-d.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-e.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-f.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-g.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-h.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-i.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-j.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-k.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-l.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-m.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-n.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-o.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "loading",
+                    "frame": "loading1-p.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

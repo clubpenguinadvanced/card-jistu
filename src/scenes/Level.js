@@ -16,12 +16,20 @@ class Level extends Phaser.Scene {
 	/** @returns {void} */
 	editorCreate() {
 
-		// ellipse
-		const ellipse = this.add.ellipse(715, 434, 128, 128);
-		ellipse.isFilled = true;
+		// background_png
+		const background_png = this.add.image(0, 0, "loading", "background.png");
+		background_png.setOrigin(0, 0);
+
+		// loading1
+		const loading1 = this.add.sprite(760, 480, "loading", "loading1-a.png");
+
+		this.loading1 = loading1;
 
 		this.events.emit("scene-awake");
 	}
+
+	/** @type {Phaser.GameObjects.Sprite} */
+	loading1;
 
 	/* START-USER-CODE */
 
@@ -30,12 +38,13 @@ class Level extends Phaser.Scene {
 	create() {
 
 		this.editorCreate();
-		
+		this.loading1.play("loading")
+
 		window.RufflePlayer = window.RufflePlayer || {};
 		window.RufflePlayer.config = {
 			"publicPath": "src/"
 		}
-		
+
 		this.ruffle = window.RufflePlayer.newest();
             this.rufflePlayer = this.ruffle.createPlayer();
             this.rufflePlayer.style.position = 'absolute';

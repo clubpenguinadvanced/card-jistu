@@ -2,9 +2,20 @@
     "section1": {
         "files": [
             {
+                "url": "assets/loading/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
                 "url": "src/game.js",
                 "type": "script",
                 "key": "game"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/loading/loading.json",
+                "path": "assets/loading",
+                "key": "loading"
             },
             {
                 "url": "src/ruffle.js",

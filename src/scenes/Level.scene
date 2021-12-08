@@ -10,15 +10,29 @@
     },
     "displayList": [
         {
-            "type": "Ellipse",
-            "id": "d156c66c-375b-4738-b027-0093d88e8bd4",
-            "label": "ellipse",
+            "type": "Image",
+            "id": "bf9b2c7f-91db-47a2-980c-48f3ddef0dd2",
+            "label": "background_png",
             "components": [],
-            "x": 715,
-            "y": 434,
-            "isFilled": true,
-            "width": 128,
-            "height": 128
+            "texture": {
+                "key": "loading",
+                "frame": "background.png"
+            },
+            "originX": 0,
+            "originY": 0
+        },
+        {
+            "type": "Sprite",
+            "id": "ee210b07-309c-48df-aaf4-01a9c3d978fe",
+            "label": "loading1",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "loading",
+                "frame": "loading1-a.png"
+            },
+            "x": 760,
+            "y": 480
         }
     ],
     "plainObjects": [],
